@@ -4,6 +4,7 @@ const nextConfig = {
   output: 'export',
   basePath: '',
   trailingSlash: true,
+  distDir: 'docs',
 }
 
 module.exports = nextConfig
